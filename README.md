@@ -18,7 +18,7 @@ AWS | Python | SQL | Spark | Glue | Redshift | Snowflake | Power BI | QuickSight
 - Exploring governance and security best practices in cloud-native environments
 
 ### 📫 Let's connect
-- [LinkedIn](www.linkedin.com/in/karen-lenis-data-engineer)
+- [LinkedIn](https://www.linkedin.com/in/karen-lenis-data-engineer/)
 - Email: karenlenis900@gmail.com
 
 > “Data is not just numbers, it's insight, strategy, and action.” 🚀
