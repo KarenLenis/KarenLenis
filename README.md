@@ -10,7 +10,9 @@ I'm a **Senior Data Engineer** with over **3 years of experience working with AW
 - Enabling **modern data architectures** using Snowflake, Aurora, and Redshift
 
 ### 🔧 Tech Stack
-AWS | Python | SQL | Spark | Glue | Redshift | Snowflake | Power BI | QuickSight | Airflow | Terraform
+AWS · Azure · GCP · Databricks · Snowflake  
+Python · SQL · Spark · Glue · Redshift · S3 · Airflow · Terraform  
+Power BI · QuickSight · RDS · EC2 · Selenium · API Gateway
 
 ### 🚀 Current Projects
 - Automating legacy data pipelines with AWS Batch and Lambda
